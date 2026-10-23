@@ -132,7 +132,6 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 <br/><br/>
 
 <a href="https://leetcode.com/u/narayanbhandari556/" target="_blank">
-<img src="https://leetcard.jacoblin.cool/narayanbhandari556?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics and heatmap"/>
 </a>
 
 </div>
