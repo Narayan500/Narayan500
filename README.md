@@ -10,15 +10,7 @@
 <a href="https://linkedin.com/in/narayan-bhandari-89788525a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://leetcode.com/u/narayanbhandari556/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://naukri.com/code360/profile/narayankr" target="_blank">
-<img src="https://img.shields.io/badge/Code360-667%2B_Submissions-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code360"/>
-</a>
-<a href="https://datapathsala.com/profile" target="_blank">
-<img src="https://img.shields.io/badge/DataPathshala-SQL_Practice-0052CC?style=for-the-badge&logo=database&logoColor=white" alt="DataPathshala"/>
-</a>
+  
 <a href="mailto:narayanbhandari556@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -34,12 +26,12 @@
 
 Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experience in high-impact enterprise projects, backend engineering, and modern data architectures.
 
-- 💼 Working as a **Software Developer at iONE IT Solutions**, leading database operations and migration tasks across 8–9 regional locations for the enterprise CAG project.
+- 💼 Working as a **Software Developer**.
 - 🗄️ Core expertise in **Oracle Database, PL/SQL Query Optimization, Database Triggers**, and **Oracle Forms & Reports 11g to 14c Migration**.
 - 🌐 Modern Full-Stack developer proficient in **MERN Stack (MongoDB/MySQL, Express, React, Node.js)**.
 - ⚙️ Architecting modern **Data Engineering Pipelines** using AWS S3, Snowflake, dbt Core, Apache Airflow, and Docker.
 - 🤖 Integrating **GenAI & RAG Applications** powered by Google Gemini API and LLM frameworks.
-- 🧩 Active problem solver across **LeetCode**, **Code360 (667+ submissions)**, and **DataPathshala** for Data Structures, Algorithms, and Advanced SQL practice.
+- 🧩 Active problem solver across **LeetCode**, **Code360**, and **DataPathshala** for Data Structures, Algorithms, and Advanced SQL practice.
 
 ---
 
@@ -72,10 +64,10 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 
 ## 💼 Professional Experience
 
-### Software Developer — iONE IT Solutions Pvt. Ltd.
+### Software Developer ### 
 **Focus: Oracle Forms & Reports Modernization, PL/SQL Optimization & Full-Stack Development**
 
-- Managed end-to-end database operations, Linux server setup, WebLogic deployment, and migration tasks across 8–9 regional locations for the enterprise CAG project.
+- Managed end-to-end database operations, Linux server setup, WebLogic deployment, and migration.
 - Conducted schema validation and query tuning for migration from Oracle Forms/Reports 11g to 14c.
 - Developed scalable MERN backend services, converting legacy PL/SQL procedures and packages into high-performance MySQL stored functions and API endpoints.
 
@@ -131,6 +123,7 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 <a href="https://leetcode.com/u/narayanbhandari556/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-narayanbhandari556-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
 </a>
+
 <a href="https://naukri.com/code360/profile/narayankr" target="_blank">
 <img src="https://img.shields.io/badge/Code360-narayankr-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code360 Profile"/>
 </a>
@@ -160,6 +153,10 @@ I'm always open to discussing Oracle PL/SQL, Data Engineering, MERN Stack, GenAI
 
 <a href="https://leetcode.com/u/narayanbhandari556/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-narayanbhandari556-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="https://datapathsala.com/profile" target="_blank">
+<img src="https://img.shields.io/badge/DataPathshala-SQL_Practice-0052CC?style=for-the-badge&logo=database&logoColor=white" alt="DataPathshala"/>
 </a>
 
 <a href="https://naukri.com/code360/profile/narayankr" target="_blank">
