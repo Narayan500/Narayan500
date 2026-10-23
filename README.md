@@ -51,8 +51,13 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 - MySQL & PostgreSQL
 
 ### 🚀 Data Engineering, Orchestration & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="Data Engineering"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 - **Data Warehousing & Transformation:** Snowflake, dbt Core
