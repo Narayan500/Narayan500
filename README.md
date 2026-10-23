@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Narayan+Kumar+Bhandari;Software+Developer+%7C+Oracle+PL%2FSQL;Full-Stack+MERN+%26+GenAI+Developer;Data+Engineering+Enthusiast" alt="Animated introduction" />
 
@@ -10,11 +10,12 @@
 <a href="https://linkedin.com/in/narayan-bhandari-89788525a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+  
 <a href="mailto:narayanbhandari556@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
+
 
 </div>
 
@@ -24,12 +25,12 @@
 
 Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experience in high-impact enterprise projects, backend engineering, and modern data architectures.
 
-- 💼 Working as a **Software Developer at iONE IT Solutions**, leading database operations and migration tasks across 8–9 regional locations for the enterprise CAG project.
+- 💼 Working as a **Software Developer**.
 - 🗄️ Core expertise in **Oracle Database, PL/SQL Query Optimization, Database Triggers**, and **Oracle Forms & Reports 11g to 14c Migration**.
 - 🌐 Modern Full-Stack developer proficient in **MERN Stack (MongoDB/MySQL, Express, React, Node.js)**.
 - ⚙️ Architecting modern **Data Engineering Pipelines** using AWS S3, Snowflake, dbt Core, Apache Airflow, and Docker.
 - 🤖 Integrating **GenAI & RAG Applications** powered by Google Gemini API and LLM frameworks.
-- 🧩 Active problem solver across **LeetCode (293 Solved)**, **Code360 (667+ submissions)**, and **DataPathshala** for DSA and Advanced SQL practice.
+- 🧩 Active problem solver across **LeetCode**, **Code360**, and **DataPathshala** for Data Structures, Algorithms, and Advanced SQL practice.
 
 ---
 
@@ -62,10 +63,10 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 
 ## 💼 Professional Experience
 
-### Software Developer — iONE IT Solutions Pvt. Ltd.
+### Software Developer ### 
 **Focus: Oracle Forms & Reports Modernization, PL/SQL Optimization & Full-Stack Development**
 
-- Managed end-to-end database operations, Linux server setup, WebLogic deployment, and migration tasks across 8–9 regional locations for the enterprise CAG project.
+- Managed end-to-end database operations, Linux server setup, WebLogic deployment, and migration.
 - Conducted schema validation and query tuning for migration from Oracle Forms/Reports 11g to 14c.
 - Developed scalable MERN backend services, converting legacy PL/SQL procedures and packages into high-performance MySQL stored functions and API endpoints.
 
@@ -119,8 +120,8 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 <div align="center">
 
 <a href="https://leetcode.com/u/narayanbhandari556/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-293_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
 </a>
+
 <a href="https://naukri.com/code360/profile/narayankr" target="_blank">
 <img src="https://img.shields.io/badge/Code360-narayankr-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code360 Profile"/>
 </a>
