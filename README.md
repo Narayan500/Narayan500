@@ -38,7 +38,7 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 
 ### 💻 Programming Languages & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,python,c,cpp" alt="Languages & Frameworks"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,python" alt="Languages & Frameworks"/>
 </p>
 
 ### 🗄️ Databases & Enterprise Technologies
