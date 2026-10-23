@@ -154,17 +154,6 @@ I'm always open to discussing Oracle PL/SQL, Data Engineering, MERN Stack, GenAI
 <img src="https://img.shields.io/badge/LinkedIn-Narayan_Bhandari-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="https://leetcode.com/u/narayanbhandari556/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-narayanbhandari556-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="https://datapathsala.com/profile" target="_blank">
-<img src="https://img.shields.io/badge/DataPathshala-SQL_Practice-0052CC?style=for-the-badge&logo=database&logoColor=white" alt="DataPathshala"/>
-</a>
-
-<a href="https://naukri.com/code360/profile/narayankr" target="_blank">
-<img src="https://img.shields.io/badge/Code360-narayankr-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code360"/>
-</a>
 
 <a href="mailto:narayanbhandari556@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
