@@ -63,7 +63,7 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 
 ## 💼 Professional Experience
 
-### Software Developer ### 
+### Software Developer
 **Focus: Oracle Forms & Reports Modernization, PL/SQL Optimization & Full-Stack Development**
 
 - Managed end-to-end database operations, Linux server setup, WebLogic deployment, and migration.
@@ -120,6 +120,7 @@ Hey! I'm **Narayan Kumar Bhandari**, a Software Developer with hands-on experien
 <div align="center">
 
 <a href="https://leetcode.com/u/narayanbhandari556/" target="_blank">
+ <img src="https://img.shields.io/badge/LeetCode-narayanbhandari556-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <a href="https://naukri.com/code360/profile/narayankr" target="_blank">
